@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shreyan Sanyal</h1>
-<h3 align="center">A passionate developer dedicated towards learning new things.</h3>
+<h3 align="center">A passionate full-stack web developer dedicated towards learning new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyan111&label=Profile%20views&color=0e75b6&style=flat" alt="shreyan111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyan111" alt="shreyan111" /></a> </p>
 
-- 🌱 I’m a **Frontend Web Developer** and currently learning **MERN Stack**
+- 🌱 I’m a **Fullstack Web Developer** and currently exploring **MERN Stack**
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Redux, Javascript**
 
 - 🔥 Hit me up for talks and discussion in **Web Development, Competitive Programming and DSA**
 
-- ✨ I'm interested in **Web Development , Cyber Security & Cloud Technologies**
+- ✨ I'm interested in **Full Stack Web Development , Cyber Security & Cloud Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
